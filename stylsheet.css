@@ -76,7 +76,6 @@ header nav ul li a:hover{
 
 /* メインビジュアル */
 .main_visual{
-  background: #999 url(../images/1.jpg);
   background-image: url("./https://github.com/SAWADANATSUKO/portofolio_company/blob/main/mv.jpg?raw=true");
   width: 30px;
   height: 30px;
